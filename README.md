@@ -38,7 +38,6 @@ All of the training data (i.e, patch patterns and their free energies) are conta
 You can train a model using *model_fnot.py*
 
 For a list of training options, run:
-
 ```
 python model_fnot.py -h
 ```
@@ -49,3 +48,6 @@ For instance, to train a CNN with 6 convolutional filters, 1 hidden layer, and 1
 python model_fnot.py --augment-data --n-layers 1 --n-hidden 12 --do-conv --n-out-channels 6
 ```
 
+## Authors
+
+Nick Rego ([nrego@pennmedicine.upenn.edu])
