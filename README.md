@@ -50,4 +50,4 @@ python model_fnot.py --augment-data --n-layers 1 --n-hidden 12 --do-conv --n-out
 
 ## Authors
 
-Nick Rego ([nrego@pennmedicine.upenn.edu])
+Nick Rego (nrego@pennmedicine.upenn.edu)
